@@ -27,6 +27,5 @@ public class notOrtalamasiOdevi {
         System.out.println("Not Ortalamanız = " + ortalamaNot);
         String snc=ortalamaNot>=60 ? "Sınıfı Geçti": "Sınıfta Kaldı";
         System.out.println(snc);
-
     }
 }
